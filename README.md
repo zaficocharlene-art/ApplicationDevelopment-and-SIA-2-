@@ -2,9 +2,12 @@ Lost & Found System
 
 Student Information
 
-  Name: Your Name
-  Course & Section: BSIT
+  Name: Charlene Zafico
+  
+  Course & Section: BSIT-3B
+  
   Subject: Application Development
+  
   Instructor: Jeremiah Dela Cruz
 
 
@@ -34,9 +37,13 @@ Update Item Status (Lost, Found, Claimed)
 Technologies Used
 
  HTML
+ 
  CSS
+ 
  PHP
+ 
  MySQL
+ 
  XAMPP
 
 
